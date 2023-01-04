@@ -1,0 +1,63 @@
+Java Basics
+
+1. Version History of Java
+
+2. How to download & install JDK
+
+3. Java Architecture(JVM, JRE, JDK)
+
+4. About MAIN() method
+
+5. Data types
+
+
+
+Java OOPS
+
+6. Java OOPS
+
+6.1. Classes, Objects & Constructor
+
+6.2. Inheritance
+
+6.3. Polymorphism
+
+6.4. Encapsulation
+
+6.5. Abstraction
+
+
+
+
+Java String
+
+13. Java String
+
+13.1. String Class
+
+13.2. StringBuffer Class
+
+13.3. StringBuilder class
+
+13.4. String VS StringBuffer
+
+13.5. StringBuffer VS StringBuilder
+
+13.6. String class Methods
+
+
+Exception Handling
+
+Java Multithreading
+
+Java Collection
+
+
+Lambda Expressions
+
+Stream API
+
+Functional Interface
+
+
+
